@@ -1,0 +1,32 @@
+{
+  "status": 1,
+  "isRedirect": 0,
+  "errMsg": null,
+  "msg": "获取广告位信息成功",
+  "url": "",
+  "id": -1,
+  "datas": {
+    "ad_type_id": 2,
+    "height": 130,
+    "width": 640,
+    "adList": [
+      {
+        "url": "http://m.leying.com/h5/movie-guide/m/201703/pid/1",
+        "pic_url": "http://img.leying365.com/data/resource/file/dynamic/adContent/2017/2/28/20170228215702480_e96a5_93.jpg",
+        "adName": "3月观影指南"
+      },
+      {
+        "url": "http://m.leying.com/movie/movieInfo.action?movieId=3418",
+        "pic_url": "http://img.leying365.com/data/resource/file/dynamic/adContent/2017/3/9/20170309111147040_ofj5e_93.jpg",
+        "adName": "最终幻想"
+      },
+      {
+        "url": "http://m.leying.com/movie/movieInfo.action?movieId=3390",
+        "pic_url": "http://img.leying365.com/data/resource/file/dynamic/adContent/2017/2/23/20170223095338213_0dmb4_93.jpg",
+        "adName": "生化危机"
+      }
+    ]
+  },
+  "total": null,
+  "remark": null
+}
